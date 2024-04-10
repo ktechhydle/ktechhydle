@@ -9,3 +9,6 @@ In summary, I snowboard full-time, but in my free time I develop apps in Python.
 
 > [!TIP]
 > If you ever feel like being real nice, buy me a Swiss Toblerone.
+
+> [!CAUTION]
+> The toblerone ***MUST*** be Swiss. I don't like the American Toblerone.
