@@ -1,7 +1,7 @@
 from hydle_family import keller
 
 def me(name, age, qualities):
-  name = 'Keller'
+  name = 'Keller Hydle'
   age = 15
   qualities = {'funny': keller.funny(), 
                'kind': keller.kind(), 
