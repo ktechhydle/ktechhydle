@@ -1,5 +1,5 @@
 # Hello, I'm Keller.
-In summary, I snowboard full-time, but in my free time I develop apps in Python. I work for MP Software in the summers developing open-source projects that help athletes, and hope to see a software of ours in development turn into something great.
+In summary, I snowboard full-time, but in my free time I develop apps in Python. I work for MP Software in the summers developing open-source projects that help athletes, and hope to see a software of ours in development turn into something great. I am also learning C++, and can't wait to see where that takes me!
 
 # About Me
 > [!IMPORTANT]
