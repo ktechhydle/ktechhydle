@@ -1,5 +1,5 @@
 # Hello, I'm Keller.
-In summary, I snowboard full-time, but in my free time I develop apps in Python. I work for MP Software in the summers developing open-source projects that help athletes, and hope to see a software of ours in development turn into something great. I am also learning C++, and can't wait to see where that takes me!
+I am a full-time halfpipe snowboarder training in Colorado, but in my free time I program in Python and C++. I work for MP Software developing open-source projects that help athletes. I am also learning more programming languages month-by-month, and can't wait to see where that takes me!
 
 # About Me
 > [!IMPORTANT]
