@@ -1,11 +1,27 @@
 #include <iostream>
+#include <vector>
 
-using std::string, std::cout;
+using std::string, std::cout, std::vector;
 
-string main()
+class Keller
 {
-  string qualities[] = {"Snowboarding", "Wakeboarding", "German Learning", "Programming", "Math"}; // TODO: add more qualities
-  cout << "My qualities: " << qualities;
+  public:
+    string name;
+    int age;
+    vector<string> qualities;
+
+  Keller(string name, int age, vector<string> qualities){
+    this->name = name;
+    this->age = age;
+    this->qualities = qualities;
+  }
+};
+
+int main()
+{
+  vector<string> qualities = {"Snowboarding", "Wakeboarding", "German Learning", "Programming", "Math"}; // TODO: add more qualities
+
+  Keller keller("Keller Hydle", 15, qualities);
   
-  return qualities
+  return 0;
 }
