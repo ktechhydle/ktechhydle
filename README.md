@@ -1,5 +1,5 @@
 # Hello, I'm Keller.
-I am a full-time halfpipe snowboarder training in Colorado, but in my free time I program in Python and C++. I own and manage MP Software, and help develop open-source projects that assist athletes, teams, and resorts.
+I am a full-time halfpipe snowboarder training in Colorado, but in my free time I program in Python and C++. I own and manage MP Software, and help develop open-source projects.
 
 # About Me
 > [!IMPORTANT]
