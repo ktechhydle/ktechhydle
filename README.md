@@ -5,5 +5,3 @@ started learning the language.
 
 > [!TIP]
 > If you ever feel like being real nice, buy me a Swiss Toblerone or pack of Haribo Goldbären (I love those things)
-> 
-> <kbd>[Venmo Me](https://venmo.com/user/kellerhydle)</kbd>
